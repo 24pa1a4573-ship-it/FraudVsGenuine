@@ -1,0 +1,9 @@
+Place Olist CSV files here:
+- olist_orders_dataset.csv
+- olist_order_items_dataset.csv
+- olist_order_reviews_dataset.csv
+- olist_order_payments_dataset.csv
+- olist_products_dataset.csv
+- olist_customers_dataset.csv
+
+Download from: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
